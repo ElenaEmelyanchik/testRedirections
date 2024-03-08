@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "no.ets.client.j2me.ETSClient",
+    "sha256_cert_fingerprints":
+    ["85:2B:73:EA:79:87:81:5B:27:47:3B:33:DA:14:12:9B:34:88:24:87:B9:37:21:C6:A1:91:C7:30:7B:E0:48:3D"]
+  }
+}]
